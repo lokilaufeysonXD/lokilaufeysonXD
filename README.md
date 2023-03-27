@@ -13,7 +13,7 @@
         <div id="badges" align="center">
             <img src="https://img.shields.io/github/stars/lokilaufeysonXD?color=orange&style=for-the-badge" alt="HTML" />
             <img src="https://img.shields.io/github/followers/lokilaufeysonXD?style=for-the-badge" alt="HTML" />
-            <img src="https://visitor-badge.glitch.me/badge?page_id=lokilaufeysonXD.left_color=green&right_color=red" />
+            <img src="https://visitor-badge.glitch.me/badge?page_id=lokilaufeysonXD-255&right_color=%23009688" alt="Visitors" title="Visitor"" />
         </div>
 </div>
 <!--
