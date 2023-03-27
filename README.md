@@ -21,9 +21,9 @@
 
 I am a Full Stack Web Developer living at Cancun City, Mexico
 
-🔭 Working on my personal projects.
-🌱 Learning English and more Technologies.
-🎓 Informatics Science Engineer in the [INTER-AMERICAN UNIVERSITY FOR DEVELOPMENT](https://www.unid.edu.mx/) (UNID).
-💼 4+ years of learning and willing to new challenges
-💻 Using Operative System 
+- 🔭 Working on my personal projects.
+- 🌱 Learning English and more Technologies.
+- 🎓 Informatics Science Engineer in the [INTER-AMERICAN UNIVERSITY FOR DEVELOPMENT](https://www.unid.edu.mx/) (UNID).
+- 💼 4+ years of learning and willing to new challenges
+- 💻 Using Operative System 
 
