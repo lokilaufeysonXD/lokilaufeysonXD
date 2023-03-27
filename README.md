@@ -14,7 +14,7 @@
             <img src="https://img.shields.io/github/stars/lokilaufeysonXD?color=orange&style=for-the-badge" alt="HTML" />
             <img src="https://img.shields.io/github/followers/lokilaufeysonXD?style=for-the-badge" alt="HTML" />
             <a hreft="https://twitter.com/jose_laufeyson">
-                <img src="https://img.shields.io/twitter/follow/jose_laufeyson?color=blue&logo=twitter&style=for-the-badge" />
+                <img src="https://img.shields.io/twitter/url?color=blue&label=%40jose_laufeyson&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fjose_laufeyson" />
             </a>
         </div>
 </div>
@@ -28,7 +28,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 🎓 Informatics Science Engineer in the [INTER-AMERICAN UNIVERSITY FOR DEVELOPMENT](https://www.unid.edu.mx/) (UNID). <br/>
 👯 I’m looking to collaborate on developers teams <br/>
 💼 4+ years of learning and willing to new challenges <br/>
-💻 Using Operative System <br/>
+💻 Using Operative System <img src="https://img.shields.io/badge/Windows-282C34?logo=Windows" alt="Windows logo" title="Windows" height="20" /><br/>
 🌏 my web page is: [in the process of construction](). <br/> 
 <br/>
 <br/>
