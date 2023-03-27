@@ -2,7 +2,6 @@
         <img src="https://giphy.com/embed/RgCnKKFHAhkl2" width="200" />
         <h1 align="centar"> 
             Hi there 👋, i'm lokilaufeysonXD better known as Jose Ramon <br/> 
-            <br/>
             <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="200" /> 
         </h1> 
         <h3 align="center">
@@ -30,6 +29,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 👯 I’m looking to collaborate on developers teams <br/>
 💼 4+ years of learning and willing to new challenges <br/>
 💻 Using Operative System <br/>
+🌏 my web page is: [in the process of construction](). <br/> 
 <br/>
 <br/>
 
