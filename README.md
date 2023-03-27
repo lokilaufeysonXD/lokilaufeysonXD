@@ -13,7 +13,9 @@
         <div id="badges" align="center">
             <img src="https://img.shields.io/github/stars/lokilaufeysonXD?color=orange&style=for-the-badge" alt="HTML" />
             <img src="https://img.shields.io/github/followers/lokilaufeysonXD?style=for-the-badge" alt="HTML" />
-            <img src="https://img.shields.io/twitter/follow/jose_laufeyson?color=blue&logo=twitter&style=for-the-badge" />
+            <a hreft="https://twitter.com/jose_laufeyson">
+                <img src="https://img.shields.io/twitter/follow/jose_laufeyson?color=blue&logo=twitter&style=for-the-badge" />
+            </a>
         </div>
 </div>
 <!--
