@@ -1,4 +1,4 @@
- <div id="header" align="center">
+<div id="header" align="center">
         <img src="https://tenor.com/es-US/view/shinji-shinji-ikari-neon-genesis-evangelion-neon-genesis-evangelion-gif-22651125" width="200" />
         <h1 align="centar"> 
             Hi there 👋, i'm lokilaufeysonXD better known as Jose Ramon <br/>
@@ -10,8 +10,12 @@
             I like to work in a team and therefore I look for internship opportunities or
             I work to put my skills into practice
         </h3>
+        <div id="badges" align="center">
+            <img src="https://img.shields.io/github/stars/lokilaufeysonXD?color=orange&style=for-the-badge" alt="HTML" />
+            <img src="https://img.shields.io/github/followers/lokilaufeysonXD?style=for-the-badge" alt="HTML" />
+            ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+        </div>
 </div>
-
 <!--
 **lokilaufeysonXD/lokilaufeysonXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
