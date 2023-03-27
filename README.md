@@ -2,7 +2,7 @@
         <img src="https://tenor.com/es-US/view/shinji-shinji-ikari-neon-genesis-evangelion-neon-genesis-evangelion-gif-22651125" width="200" />
         <h1 align="centar"> 
             Hi there 👋, i'm lokilaufeysonXD better known as Jose Ramon <br/>
-            <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="20" /> 
+            <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="200" /> 
         </h1> 
         <h3 align="center">
             passionate programmer recent graduate of software engineering and computer systems
