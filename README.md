@@ -2,7 +2,7 @@
         <img src="https://tenor.com/es-US/view/shinji-shinji-ikari-neon-genesis-evangelion-neon-genesis-evangelion-gif-22651125" width="200" />
         <h1 align="centar"> 
             Hi there 👋, i'm lokilaufeysonXD better known as Jose Ramon <br/>
-            <img src="<iframe src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="20" /> 
+            <img src="src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="20" /> 
         </h1> 
         <h3 align="center">
             passionate programmer recent graduate of software engineering and computer systems
@@ -24,6 +24,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 🔭 Working on my personal projects. <br/>
 🌱 Learning English and more Technologies. <br/>
 🎓 Informatics Science Engineer in the [INTER-AMERICAN UNIVERSITY FOR DEVELOPMENT](https://www.unid.edu.mx/) (UNID). <br/>
+👯 I’m looking to collaborate on developers teams <br/>
 💼 4+ years of learning and willing to new challenges <br/>
 💻 Using Operative System <br/>
 
