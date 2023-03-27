@@ -47,9 +47,8 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>&nbsp; -->
-        
-            
+    </div>       
             
             
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-    </div>
+    
