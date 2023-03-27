@@ -4,7 +4,12 @@
             Hi there 👋, i'm lokilaufeysonXD better known as Jose Ramon <br/>
             <img src="<iframe src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="20" /> 
         </h1> 
-        <!-- <h3 align="center"> Passionate programmer with basic knowledge in programming languages such as Java and Python. Recent graduate of software engineering and            computer systems and looking for opportunities an internship or job to put my skills into practice and acquire new knowledge. I have problem solving and                teamwork skills, and I am always willing to learn and improve my skills. </h3>  -->
+        <h3 align="center">
+            passionate programmer recent graduate of software engineering and computer systems
+            I am willing to learn and improve possessing problem solving skills
+            I like to work in a team and therefore I look for internship opportunities or
+            I work to put my skills into practice
+        </h3>
 </div>
 
 <!--
