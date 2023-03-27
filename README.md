@@ -29,10 +29,14 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 👯 I’m looking to collaborate on developers teams <br/>
 💼 4+ years of learning and willing to new challenges <br/>
 💻 Using Operative System 
-<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows" alt="Windows logo" title="Windows" height="20" /><br/>
+<img src="https://img.shields.io/badge/Windows-282C34?logo=Windows" alt="Windows logo" title="Windows" height="20" /> &nbsp;
+<img src="https://img.shields.io/badge/Debian-282C34?logo=debian" alt="Debian logo" title="Debian" height="20" />
+<br/>
 🌏 my web page is: [in the process of construction](). <br/> 
 <br/>
 <br/>
+### ⚡ My stats:
+
 [![lokilaufeysonXD's github stats](https://github-readme-stats.vercel.app/api?username=lokilaufeysonXD-255&show_icons=true&hide_border=true)](https://github.com/lokilaufeysonXD-255)
 
 <div align="left">
