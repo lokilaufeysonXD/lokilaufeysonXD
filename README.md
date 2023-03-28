@@ -45,7 +45,6 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 
 <div align="left">
     <h1>🛠 Languages & Technologies</h1>
-    <hr height="1px"> 
     <div>
         <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />
         &nbsp;
@@ -74,14 +73,12 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 
 <div align="left">
     <h1>📖  What I am currently learning / improving on</h1>
-    <hr height="1px"> 
     <div>
         <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
     </div>  
 
    <div align="left">
     <h1>📚  What I am interested in learning at some point</h1>
-    <hr height="1px"> 
     <div>
         <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />
         &nbsp;
