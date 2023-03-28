@@ -37,7 +37,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 
 [![lokilaufeysonXD github stats](https://github-readme-stats.vercel.app/api?username=lokilaufeysonXD&show_icons=true&hide_border=true)](https://github.com/lokilaufeysonXD)
 
-<a name="knowledge"></a>
+ <hr>
 
 <div align="left">
     <h3>🛠 Languages & Technologies</h3>
@@ -57,7 +57,8 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
         <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
         &nbsp;
         <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="PHP logo" title="PHP" height="25" />
-    </div>       
+    </div>  
+    <br/>     
             
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokilaufeysonXD&layout=compact)](https://github.com/lokilaufeysonXD)
             
