@@ -36,6 +36,8 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 <br/>
 
 [![lokilaufeysonXD github stats](https://github-readme-stats.vercel.app/api?username=lokilaufeysonXD&show_icons=true&hide_border=true)](https://github.com/lokilaufeysonXD)
+&nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lokilaufeysonXD&theme=default)](https://git.io/streak-stats)
 
 
 <div align="left">
@@ -65,8 +67,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
     <br/>     
                 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokilaufeysonXD&layout=compact)](https://github.com/lokilaufeysonXD)
-&nbsp;
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lokilaufeysonXD&theme=default)](https://git.io/streak-stats)
+
 
 <div align="left">
     <h1>📖  What I am currently learning / improving on</h1>
