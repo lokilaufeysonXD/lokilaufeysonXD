@@ -93,4 +93,4 @@
 - ![ecomerce3](https://github.com/Pudin-con-pasas-uwu/ecomerce3)
 
 #### Thanks for watching
-<img src="https://komarev.com/ghpvc/?username=lokilaufeysonXD&label=Profile%20views&color=0e75b6&?style=for-the-badge" alt="lokilaufeysonXD" /> 
+<img src="https://komarev.com/ghpvc/?username=lokilaufeysonXD&label=Profile%20views&color=0e75b6&style=flat" alt="lokilaufeysonXD" /> 
