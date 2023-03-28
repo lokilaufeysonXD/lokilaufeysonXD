@@ -35,6 +35,8 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 🌏 my web page is: [in the process of construction](). <br/> 
 <br/>
 
+### ⚡ My stats:
+<br/>
 [![lokilaufeysonXD github stats](https://github-readme-stats.vercel.app/api?username=lokilaufeysonXD&show_icons=true&hide_border=true)](https://github.com/lokilaufeysonXD)
 &nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lokilaufeysonXD&theme=default)](https://git.io/streak-stats)
@@ -88,8 +90,9 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
         &nbsp;
         <img src="https://img.shields.io/badge/materialdesign-282C34?logo=materialdesign&logoColor=3DDC84" alt="materialdesign logo" title="materialdesign" height="25" />
     </div> 
+       
+### 💻 Actual Personal Projects in progress</h1>
+ 
+- ![ecomerce3](https://github.com/Pudin-con-pasas-uwu/ecomerce3)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-    
-
-<!-- <iframe src="https://giphy.com/embed/Diym3aZO1dHzO" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO">via GIPHY</a></p> -->
+#### Thanks for watching
