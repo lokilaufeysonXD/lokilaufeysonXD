@@ -42,7 +42,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 <div align="left">
     <h3>🛠 Languages & Technologies</h3>
     <div>
-        <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js" alt="Node.js logo" title="Node.js" height="20" />
+        <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js" alt="Node.js logo" title="Node.js" height="25" />
         &nbsp;
         <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
         &nbsp;
