@@ -19,7 +19,6 @@
         </div>
 </div>
 <br/>
-<br/>
 
 ### I am a Full Stack Web Developer living at Cancun City, Mexico
 
