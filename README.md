@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="https://giphy.com/embed/Diym3aZO1dHzO" width="200" alt="gif"/>
+        <img src="https://github.com/lokilaufeysonXD/Gif_Imagen_Redmi_Perfil/blob/main/img/giphy.gif" width="200" alt="gif"/>
         <h1 align="centar"> 
             Hi there 👋, i'm lokilaufeysonXD better known as Jose Ramon <br/> 
             <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="200" /> 
