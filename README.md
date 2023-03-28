@@ -59,6 +59,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
         <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="PHP logo" title="PHP" height="25" />
     </div>       
             
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokilaufeysonXD&layout=compact)](https://github.com/lokilaufeysonXD)
             
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
     
