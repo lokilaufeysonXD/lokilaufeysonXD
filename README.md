@@ -39,10 +39,12 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 
 
 <div align="left">
-    <h3>🛠 Languages & Technologies</h3>
+    <h1>🛠 Languages & Technologies</h1>
     <hr height="1px"> 
     <div>
-        <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js" alt="Node.js logo" title="Node.js" height="25" />
+        <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=9b4f96" alt="C# logo" title="C#" height="25" />
         &nbsp;
         <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
         &nbsp;
@@ -59,9 +61,30 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
         <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="PHP logo" title="PHP" height="25" />
     </div>  
     <br/>     
-            
+                
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokilaufeysonXD&layout=compact)](https://github.com/lokilaufeysonXD)
-            
+
+
+<div align="left">
+    <h1>📖  What I am currently learning / improving on</h1>
+    <hr height="1px"> 
+    <div>
+        <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+    </div>  
+
+   <div align="left">
+    <h1>📚  What I am interested in learning at some point</h1>
+    <hr height="1px"> 
+    <div>
+        <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
+        &nbsp;Material Design
+        <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=3DDC84" alt="Angular logo" title="Angular" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/materialdesign-282C34?logo=materialdesign&logoColor=3DDC84" alt="materialdesign logo" title="materialdesign" height="25" />
+    </div> 
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
     
 
