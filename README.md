@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="https://giphy.com/embed/RgCnKKFHAhkl2" width="200" />
+        <img src="https://giphy.com/embed/Diym3aZO1dHzO" width="200" />
         <h1 align="centar"> 
             Hi there 👋, i'm lokilaufeysonXD better known as Jose Ramon <br/> 
             <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" width="200" /> 
@@ -40,7 +40,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 
 <div align="left">
     <h3>🛠 Languages & Technologies</h3>
-    <hr height="1%"> 
+    <hr height="1px"> 
     <div>
         <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js" alt="Node.js logo" title="Node.js" height="25" />
         &nbsp;
@@ -64,3 +64,5 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
             
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
     
+
+<!-- <iframe src="https://giphy.com/embed/Diym3aZO1dHzO" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO">via GIPHY</a></p> -->
