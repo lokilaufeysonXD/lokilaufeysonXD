@@ -59,6 +59,8 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
         <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
         &nbsp;
         <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="PHP logo" title="PHP" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=777bb4" alt="mysql logo" title="mysql" height="25" />
     </div>  
     <br/>     
                 
@@ -79,7 +81,7 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
         <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />
         &nbsp;
         <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-        &nbsp;Material Design
+        &nbsp;
         <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=3DDC84" alt="Angular logo" title="Angular" height="25" />
         &nbsp;
         <img src="https://img.shields.io/badge/materialdesign-282C34?logo=materialdesign&logoColor=3DDC84" alt="materialdesign logo" title="materialdesign" height="25" />
