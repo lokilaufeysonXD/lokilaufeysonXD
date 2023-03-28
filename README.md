@@ -37,11 +37,10 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 
 [![lokilaufeysonXD github stats](https://github-readme-stats.vercel.app/api?username=lokilaufeysonXD&show_icons=true&hide_border=true)](https://github.com/lokilaufeysonXD)
 
- <hr>
 
 <div align="left">
     <h3>🛠 Languages & Technologies</h3>
-    <a name="knowledge"></a>
+    <hr height="1"> 
     <div>
         <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js" alt="Node.js logo" title="Node.js" height="25" />
         &nbsp;
