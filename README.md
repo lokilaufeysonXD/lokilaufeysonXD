@@ -37,20 +37,26 @@ I am a Full Stack Web Developer living at Cancun City, Mexico
 
 [![lokilaufeysonXD github stats](https://github-readme-stats.vercel.app/api?username=lokilaufeysonXD&show_icons=true&hide_border=true)](https://github.com/lokilaufeysonXD)
 
+<a name="knowledge"></a>
+
 <div align="left">
     <h3>🛠 Languages & Technologies</h3>
     <div>
-        <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" alt="vuejs" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>&nbsp; -->
+        <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js" alt="Node.js logo" title="Node.js" height="20" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF" alt="Linux logo" title="Linux" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="PHP logo" title="PHP" height="25" />
     </div>       
             
             
