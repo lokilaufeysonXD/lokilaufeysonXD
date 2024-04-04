@@ -90,8 +90,6 @@
        
 ### 💻 Actual Personal Projects in progress</h1>
  
-// - ![ecomerce3](https://github.com/Pudin-con-pasas-uwu/ecomerce3)
-// - ![AdminPage]([https://github.com/Pudin-con-pasas-uwu/ecomerce3](https://github.com/lokilaufeysonXD/AdminPage))
 - ![algebra](https://github.com/lokilaufeysonXD/algebra-)
 - ![Koiotaku-Toys](https://github.com/lokilaufeysonXD/Koiotaku-Toys_)
 
