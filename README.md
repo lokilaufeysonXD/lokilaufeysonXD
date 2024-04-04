@@ -90,9 +90,10 @@
        
 ### 💻 Actual Personal Projects in progress</h1>
  
-- ![ecomerce3](https://github.com/Pudin-con-pasas-uwu/ecomerce3)
-- ![AdminPage]([https://github.com/Pudin-con-pasas-uwu/ecomerce3](https://github.com/lokilaufeysonXD/AdminPage))
+// - ![ecomerce3](https://github.com/Pudin-con-pasas-uwu/ecomerce3)
+// - ![AdminPage]([https://github.com/Pudin-con-pasas-uwu/ecomerce3](https://github.com/lokilaufeysonXD/AdminPage))
 - ![algebra](https://github.com/lokilaufeysonXD/algebra-)
+- ![Koiotaku-Toys](https://github.com/lokilaufeysonXD/Koiotaku-Toys_)
 
 #### Thanks for watching
 <img src="https://komarev.com/ghpvc/?username=lokilaufeysonXD&label=Profile%20views&color=0e75b6&style=flat" alt="lokilaufeysonXD" /> 
