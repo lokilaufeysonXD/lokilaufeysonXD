@@ -91,7 +91,7 @@
 ### 💻 Actual Personal Projects in progress</h1>
  
 - ![algebra](https://github.com/lokilaufeysonXD/algebra-)
-- ![Koiotaku-Toys]([https://github.com/lokilaufeysonXD/Koiotaku-Toys_](https://koiotaku-toys.zeabur.app/))
+- ![Koiotaku-Toys](https://koiotaku-toys.zeabur.app/)
 
 #### Thanks for watching
 <img src="https://komarev.com/ghpvc/?username=lokilaufeysonXD&label=Profile%20views&color=0e75b6&style=flat" alt="lokilaufeysonXD" /> 
